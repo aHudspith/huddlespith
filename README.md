@@ -13,4 +13,4 @@ Pages:
 -   stuff i love
 -   about me
 
-[![Full Logo](/public/img/full_logo.png "Full Logo")]
+![Full Logo](/public/img/full_logo.png "Full Logo")
