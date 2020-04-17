@@ -6,10 +6,10 @@ This is the repo for my personal website. I'm making this website to share all t
 
 Pages:
 
--   home
--   adventures in ethical hacking
--   projects
--   stuff i love
--   about me
+- home
+- adventures in ethical hacking
+- projects
+- stuff i love
+- about me
 
 ![Full Logo](/docs/img/full_logo.png "Full Logo")
