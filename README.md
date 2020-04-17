@@ -2,8 +2,7 @@
 
 # Huddlespith Website
 
-This is the repo for my personal website.
-I'm making this website to share all the cool, techy, maker stuff I'm into.
+This is the repo for my personal website. I'm making this website to share all the cool, techy, maker stuff I'm into.
 
 Pages:
 
